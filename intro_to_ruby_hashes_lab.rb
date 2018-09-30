@@ -4,7 +4,7 @@ Hash.new
 end
 
 def actor
-
+Hash[]
 end
 
 def monopoly
