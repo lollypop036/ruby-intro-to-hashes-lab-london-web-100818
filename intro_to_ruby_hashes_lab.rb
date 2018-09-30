@@ -4,7 +4,7 @@ Hash.new
 end
 
 def actor
-Hash[]
+Hash[:name => "Dwayne The Rock Johnson"]
 end
 
 def monopoly
